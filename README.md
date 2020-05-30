@@ -10,3 +10,6 @@ PROCESSES:
 2. write a set of conditions to cimulate the feel of playing the game 
 3. write a set of check sonditions that checks when a player wins 
 
+Game walkthrough 
+
+<img src="https://i.imgur.com/FOX8niV.gif" width="500" height="400" />  
