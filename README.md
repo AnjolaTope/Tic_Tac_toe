@@ -12,4 +12,4 @@ PROCESSES:
 
 Game walkthrough 
 
-<img src="https://i.imgur.com/FOX8niV.gif" width="500" height="400" />  
+<img src="https://i.imgur.com/FOX8niV.gif" width="900" height="600" />  
