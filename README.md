@@ -10,6 +10,8 @@ PROCESSES:
 2. write a set of conditions to cimulate the feel of playing the game 
 3. write a set of check sonditions that checks when a player wins 
 
+To play the game click this link: https://tictactoe.anjolatopebabal.repl.run/
+
 Game walkthrough 
 
 <img src="https://i.imgur.com/FOX8niV.gif" width="900" height="600" />  
